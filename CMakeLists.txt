@@ -3,5 +3,6 @@ project(Check_20251125)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(String string-h.cpp)
-add_executable(Math math-h.cpp)
+add_executable(string.h string-h.cpp)
+add_executable(math.h math-h.cpp)
+add_executable(stdlib.h stdlib-h.cpp)

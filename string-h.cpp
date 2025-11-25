@@ -36,7 +36,7 @@ void task5() {
 }
 
 // 問題6
-void task6() {
+void task5() {
     //TODO: "Today is sunny day" の中から "sunny" を探しなさい。
     char s[] = "Today is sunny day";
 }
@@ -55,7 +55,7 @@ int main() {
                     task3();
                             task4();
                     task5();
-            task6();
+            task5();
     task7();
 
     return 0;

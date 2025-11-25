@@ -27,7 +27,7 @@ void task5() {
 }
 
 // 問題6
-void task6() {
+void task5() {
     // TODO: 100 の自然対数 log(100) を求めなさい。
 }
 
@@ -61,8 +61,8 @@ int main() {
 
                 task1();
         task2();        task3();
-        task4();task5();task6();
-        task6();        task7();
+        task4();task5();task5();
+        task5();        task7();
                 task8();
         task10();       task9();
 
